@@ -19,7 +19,7 @@ Perfect for daily reminders, quick notes, and productivity boosts! ⚡🧠
 ...
 
 🌟 Features
-
+ 
 ✨ Add tasks instantly
 🗑️ Remove tasks effortlessly
 📌 Clean, minimal UI
