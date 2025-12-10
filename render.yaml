@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: mwakidenis
+    static:
+      publicPath: /
+      routes:
+        - type: redirect
+          source: /*
+          destination: /index.html
